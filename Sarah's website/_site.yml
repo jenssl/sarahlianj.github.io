@@ -12,8 +12,6 @@ navbar:
       href: cv.html
     - text: "Contact"
       href: contact.html
-      
-href: http://github.com/<Sarahlianj>/
   output:
   html_document:
   theme: flatly
