@@ -13,6 +13,3 @@ RnwWeave: Sweave
 LaTeX: pdfLaTeX
 
 BuildType: Website
-WebsitePath: ~/Documents/GitHub/sarahlianj.github.io
-
-ZoteroLibraries: "My Library"
