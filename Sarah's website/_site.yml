@@ -1,8 +1,19 @@
-name: "my-website"
-navbar:
-  title: "My Website"
+name: "Sarah Jensen's Personal Website"
+navbar: 
+  title: "Sarah Jensen"
   left:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Research"
+      href: research.html
+    - text: "CV"
+      href: cv.html
+    - text: "Contact"
+      href: contact.html
+      
+href: http://github.com/<Sarahlianj>/
+  output:
+  html_document:
+  theme: flatly
