@@ -1,0 +1,12 @@
+name: "Sarah Jensen's Personal Website"
+navbar: 
+  title: "Sarah Jensen"
+left:
+  - text: "Home"
+href: index.html
+- text: "About"
+href: about.html
+href: http://github.com/<Sarahlianj>/
+  output:
+  html_document:
+  theme: darkly
